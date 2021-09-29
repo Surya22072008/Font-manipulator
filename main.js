@@ -16,7 +16,7 @@ function preload() {
 }
 function draw(){
 background("#969A97");
-ocument.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference +"pixels";
+document.getElementById("font_size").innerHTML = "Font size of the text will be = " + difference +"pixels";
 textSize(difference);
 fill('F90093');
 stroke('F90093');
